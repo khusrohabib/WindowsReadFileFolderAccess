@@ -3,8 +3,7 @@
 The program takes a folder path as an input and recuresively traverses each sub folder and thes files contained in it to generate the access rights for each folder and file. 
 
 # Steps to Run
-
-__1. Build the project__
+__1. Build the project or run the executeable file provided in the repository under the Test folder__
 
 __2. Execute the following in a terminal window to generate the output in a text file__
 
